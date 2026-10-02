@@ -89,5 +89,5 @@ profit, not just revenue?"
 
 ## How to Use
 1. Download/clone the Excel file from this repository
-2. Open in Excel (enable data connections if prompted)
+2. Open in Excel (enable data connections if prompted) 
 3. Use the country slicer to filter all dashboard views and KPIs at once
