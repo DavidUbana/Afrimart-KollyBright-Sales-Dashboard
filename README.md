@@ -40,10 +40,10 @@ cross-filtering and key performance metrics.
   validated, profit margin calculated) before being used to build the 
   pivot tables and dashboard
 
-##Files in This Repository
--[Dataset](Afrimart-KollyBright-Sales-Dataset.xlsx)
--[Dashboard Screenshot](Afrimart-KollyBright-Excel-Sales-Dashboard-Screenshot..png)
--README.md
+## Files in This Repository
+- [Dataset](Afrimart-KollyBright-Sales-Dataset.xlsx)
+- [Dashboard Screenshot](Afrimart-KollyBright-Excel-Sales-Dashboard-Screenshot..png)
+- README.md
 
 ## Dashboard Overview
 Built pivot table dashboards covering:
