@@ -1,4 +1,4 @@
-# Afrimart Sales & Profitability Dashboard (Excel)
+# Afrimart-KollyBright-Sales and Profitability Dashboard (Excel)
 
 ## Overview
 An interactive Excel dashboard analyzing sales and profitability performance 
